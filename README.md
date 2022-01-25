@@ -1,6 +1,6 @@
-# Data Mining
+# Data Mining in an imbalanced context
 
-This project focuses on learning in an unbalanced data context with a specific application on fraud detection.
+This project focuses on learning in an unbalanced data context with a specific application on fraud detection and has be done by Hamza Fassi and Pierre LE GALEZE.
 
 ## About the data
 
