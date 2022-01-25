@@ -11,10 +11,10 @@ The data on which you are going to work are real data, they come from a retailer
 - Amount: amount of the transaction. 
 - DateTransaction: date of the transaction. 
 - CodeDecision : this is a variable which can take 4 values :  
-    0 : the transaction has been accepted by the store. 
-    1 : the transaction and therefore the customer is part of a white list (good payers). You will not find any in this database. 
-    2 : the customer is part of a black list, his history indicates that he is a bad payer (outstanding payments or banking incidents in progress), his transaction is then automatically refused. 
-    3 : customer who was stopped by the system in the past for a more or less justified reason. 
+    0 : the transaction has been accepted by the store.  
+    1 : the transaction and therefore the customer is part of a white list (good payers). You will not find any in this database.  
+    2 : the customer is part of a black list, his history indicates that he is a bad payer (outstanding payments or banking incidents in progress), his transaction is then automatically refused.  
+    3 : customer who was stopped by the system in the past for a more or less justified reason.  
 - CheckCPT1 : number of transactions made by the same bank identifier during the same day. 
 - CheckCPT2: number of transactions made by the same bank identifier during the last three days. 
 - CPT3Check: number of transactions carried out by the same bank identifier over the last seven days. 
